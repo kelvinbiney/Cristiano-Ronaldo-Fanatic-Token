@@ -2,7 +2,7 @@
 {
   "name": "Cristiano Ronaldo Fanatic Token",
   "symbol": "CR7",
-  "uri": "https://example.com/token/CR7",
+  "uri": "https://raw.githubusercontent.com/kelvinbiney/Cristiano-Ronaldo-Fanatic-Token/main/CR7_metadata.json",
   "seller_fee_basis_points": 500,
   "fee_recipient": "DKq3oqWoojuXK7A6raBGjM9BHvwaPFe5skC3HbBxhSq6",
   "seller_fee_collection_address": "DKq3oqWoojuXK7A6raBGjM9BHvwaPFe5skC3HbBxhSq6",
